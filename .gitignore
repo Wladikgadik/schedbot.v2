@@ -1,0 +1,8 @@
+webhook*
+config*
+*.db
+*pycache*
+Database/
+.idea/
+
+
